@@ -1,8 +1,8 @@
 # < Ｈｏｌａ Ｍｕｎｄｏ ！👋 ／> 
 
-### `✨ const name = 1ri5 ✨`
+<p align="right">✨ 𝚌𝚘𝚗𝚜𝚝 𝚗𝚊𝚖𝚎 = "𝟷𝚛𝚒𝟻" ✨</p>
 
-### < Ｓｏｂｒｅ ｍｉ 💁 ／>
+### `< Ｓｏｂｒｅ ｍｉ 💁 ／>`
 
 
 Soy una artista multidisciplinar que ha trabajado con Ilustración, Diseño gráfico, Modelado 3D, Filtros de Realidad Augmentada, Tatuaje... ¡Entre otros! 🎨
@@ -13,7 +13,7 @@ Actualmente estoy con la cabeza metida en el desarrollo web y tengo ganas de des
 
 - - - - - - - - - - - 
 
-### < Ｔｅｃｈ 🔌 ／>
+### `< Ｔｅｃｈ 🔌 ／>`
 
 
 ⚪ HTML, CSS, JavaScript, TypeScript
@@ -28,7 +28,7 @@ Actualmente estoy con la cabeza metida en el desarrollo web y tengo ganas de des
 
 - - - - - - - - - - - 
 
-### < Ｃｏｎｔａｃｔｏ 📫 ／>
+### `< Ｃｏｎｔａｃｔｏ 📫 ／>`
 
 
 ✒ irisiriwork@gmail.com
